@@ -1,0 +1,333 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 18363.900; Version 1909; 64bit' Language: 'ru' Physical Memory: 12202 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/GameDev/UdemyUnityC#/Create 2D Infinite Scrolling Background for Runner Games
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64425
+Successfully changed project path to: D:/GameDev/UdemyUnityC#/Create 2D Infinite Scrolling Background for Runner Games
+D:/GameDev/UdemyUnityC#/Create 2D Infinite Scrolling Background for Runner Games
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 111.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/GameDev/UdemyUnityC#/Create 2D Infinite Scrolling Background for Runner Games/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 (ID=0x1381)
+    Vendor:   
+    VRAM:     984 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56588
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001764 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 42.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.785 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001120 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 46.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.395 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1808 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 85.6 MB.
+System memory in use after: 85.7 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2256.
+Total: 7.310200 ms (FindLiveObjects: 0.329500 ms CreateObjectMapping: 2.129100 ms MarkObjects: 4.692500 ms  DeleteObjects: 0.156300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Art/templerun/Slide__004.png
+  artifactKey: Guid(f6d6173761f7b324297b48d9baea687a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__004.png using Guid(f6d6173761f7b324297b48d9baea687a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41bd37935968f6c770e951e543ca112e') in 0.173576 seconds
+  Import took 0.178260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/templerun/Run__000.png
+  artifactKey: Guid(f5f1f6b903f7087428b755a20af49f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__000.png using Guid(f5f1f6b903f7087428b755a20af49f40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b709831527b20ff2cd8d638ed469a67c') in 0.015314 seconds
+  Import took 0.021093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Art/templerun/Run__005.png
+  artifactKey: Guid(149df5868b968004d8969eef06ddb211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__005.png using Guid(149df5868b968004d8969eef06ddb211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b42157038de842252a5d749343bf7121') in 0.015130 seconds
+  Import took 0.019596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/templerun/Slide__000.png
+  artifactKey: Guid(e9a031999d035634a9c8429d272fc443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__000.png using Guid(e9a031999d035634a9c8429d272fc443) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78c5e1feadd455d76f147bf6f479ef0') in 0.014571 seconds
+  Import took 0.021139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Art/templerun/Slide__006.png
+  artifactKey: Guid(73f003ea01f88f14f892ad6708930ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__006.png using Guid(73f003ea01f88f14f892ad6708930ca7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0640b272957ec6261733031d866f010b') in 0.015514 seconds
+  Import took 0.019035 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Art/templerun/Slide__007.png
+  artifactKey: Guid(f28a3912d5ccef044a24247d50a00162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__007.png using Guid(f28a3912d5ccef044a24247d50a00162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba63cd63fc601ed75258795175f9e060') in 0.015661 seconds
+  Import took 0.022571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/templerun/Run__004.png
+  artifactKey: Guid(1791e63ce8fa51f41b4d47506735f07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__004.png using Guid(1791e63ce8fa51f41b4d47506735f07c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47be24dbd8a11c929accd1efd6553268') in 0.009822 seconds
+  Import took 0.017245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Art/templerun/Jump__002.png
+  artifactKey: Guid(6b705d2187e00a14ab6b2470369e8c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__002.png using Guid(6b705d2187e00a14ab6b2470369e8c2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a8863f7923489a5a8db5a02fdb17c9a') in 0.017178 seconds
+  Import took 0.021307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/templerun/Jump__001.png
+  artifactKey: Guid(9567fe50aee4c8b41b11260d3a665a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__001.png using Guid(9567fe50aee4c8b41b11260d3a665a56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d33de195171c2f867b733149d1e3eec') in 0.013020 seconds
+  Import took 0.018462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Art/templerun/Jump__004.png
+  artifactKey: Guid(5a535e0ef1d57b94885da380fbc0329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__004.png using Guid(5a535e0ef1d57b94885da380fbc0329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cb7d738b205547b2287bb3fd946ded') in 0.012488 seconds
+  Import took 0.016700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/templerun/Jump__003.png
+  artifactKey: Guid(db82fdaf775c62d43b2e9f20b97173bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__003.png using Guid(db82fdaf775c62d43b2e9f20b97173bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3d2447d07c5d4eaadad3064fc417c68') in 0.014415 seconds
+  Import took 0.018459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Art/templerun/Slide__005.png
+  artifactKey: Guid(2d114833d659822478d4404035d49dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__005.png using Guid(2d114833d659822478d4404035d49dce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b671f4c7f8d485fcec6f379d7edb46bb') in 0.009864 seconds
+  Import took 0.016935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Art/templerun/Slide__002.png
+  artifactKey: Guid(6cfe7739461e6d14c9a6e033895f362d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__002.png using Guid(6cfe7739461e6d14c9a6e033895f362d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dd15e67052511b1552c2018ed71d04d') in 0.011334 seconds
+  Import took 0.022764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/templerun/Jump__000.png
+  artifactKey: Guid(cf641b94bb0aa4b45bcc218201f1804f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__000.png using Guid(cf641b94bb0aa4b45bcc218201f1804f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73f36b41feac8bd882084ec50d2c979d') in 0.013025 seconds
+  Import took 0.017975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Art/templerun/Run__002.png
+  artifactKey: Guid(f66adc85166699b44af66e7b0307203f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__002.png using Guid(f66adc85166699b44af66e7b0307203f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e68926670d789b3833b26bcb9e574e4c') in 0.022226 seconds
+  Import took 0.032125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Art/templerun/Run__009.png
+  artifactKey: Guid(14e2fa527f95fb841a5f135324401f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__009.png using Guid(14e2fa527f95fb841a5f135324401f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc570546d37d3a203e227d41c8ada62e') in 0.030773 seconds
+  Import took 0.037122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Art/templerun/Run__007.png
+  artifactKey: Guid(1d4ba0be256aae048a66e855a3f121ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__007.png using Guid(1d4ba0be256aae048a66e855a3f121ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f21b2632c17e28cdf8ab64cac5d3389') in 0.033805 seconds
+  Import took 0.047381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Art/templerun/Run__003.png
+  artifactKey: Guid(46da3558ee7bc884f819803a3575d391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__003.png using Guid(46da3558ee7bc884f819803a3575d391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ba3d13744b0285a35f14f19d0404ae') in 0.016998 seconds
+  Import took 0.021614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/templerun/Run__008.png
+  artifactKey: Guid(ca62184706b2a0d4dbd32cffb54b3585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__008.png using Guid(ca62184706b2a0d4dbd32cffb54b3585) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd01b900770497dc7f95d18f46682cd') in 0.015848 seconds
+  Import took 0.024143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Art/templerun/Jump__009.png
+  artifactKey: Guid(2a86f5d60bd93d64aabf53edf8280993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__009.png using Guid(2a86f5d60bd93d64aabf53edf8280993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7a57fb1d32c4bed10c764ac496f608f') in 0.013956 seconds
+  Import took 0.019045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/templerun/Slide__008.png
+  artifactKey: Guid(aa086fcccf638e748ae795a812306b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__008.png using Guid(aa086fcccf638e748ae795a812306b5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '369e2a6062ec71bb74e382b79c524dde') in 0.012885 seconds
+  Import took 0.016220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Art/templerun/Slide__009.png
+  artifactKey: Guid(f4bfb07019cded244ba0ccc4fa4e967e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__009.png using Guid(f4bfb07019cded244ba0ccc4fa4e967e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d90117739a11c6a4ba295a23b6d25fd') in 0.016329 seconds
+  Import took 0.020493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Art/templerun/Run__006.png
+  artifactKey: Guid(dc25971b4c130dd4582653962c10c9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__006.png using Guid(dc25971b4c130dd4582653962c10c9c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c3d105c77577b8d60411aed37c00632') in 0.025867 seconds
+  Import took 0.029655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Art/templerun/Jump__005.png
+  artifactKey: Guid(aa2c70ce740ab7047998c34e5e03ada0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__005.png using Guid(aa2c70ce740ab7047998c34e5e03ada0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ace47be667045e145a70bc5583e0180') in 0.014870 seconds
+  Import took 0.019117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Art/templerun/Slide__003.png
+  artifactKey: Guid(9cdce7d8ae4ab604b82b756cec323e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__003.png using Guid(9cdce7d8ae4ab604b82b756cec323e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c6bed9fdb543974f0c7f98f78a88ed') in 0.012156 seconds
+  Import took 0.015933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/templerun/Jump__006.png
+  artifactKey: Guid(9cefa13138a23664cb97dd9d3464460d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__006.png using Guid(9cefa13138a23664cb97dd9d3464460d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b93f839ff2f9525f973449575191b50c') in 0.012231 seconds
+  Import took 0.016082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Art/templerun/Jump__008.png
+  artifactKey: Guid(0966ad9872508d64480a1a763ad985d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__008.png using Guid(0966ad9872508d64480a1a763ad985d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acd2510e0f30c85b0436362471cd996d') in 0.013929 seconds
+  Import took 0.019262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Art/templerun/Run__001.png
+  artifactKey: Guid(964c4fd61e3a78149a84a623c7a4e698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Run__001.png using Guid(964c4fd61e3a78149a84a623c7a4e698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57e89bb35399b10bee98f556e0201ddf') in 0.012747 seconds
+  Import took 0.016743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Art/templerun/Slide__001.png
+  artifactKey: Guid(156dfeb23c512e54c950a2ccee82478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Slide__001.png using Guid(156dfeb23c512e54c950a2ccee82478b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c17d1bc4e940946c5f756a08082044ad') in 0.016087 seconds
+  Import took 0.025156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/Art/templerun/Jump__007.png
+  artifactKey: Guid(c4aa73f72e2371547896429ecfc05a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/templerun/Jump__007.png using Guid(c4aa73f72e2371547896429ecfc05a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77a165db05edb592e203d61dedd15cb9') in 0.017944 seconds
+  Import took 0.024334 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001357 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.819 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1798 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.2 MB.
+System memory in use after: 88.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 4.478100 ms (FindLiveObjects: 0.353800 ms CreateObjectMapping: 0.172900 ms MarkObjects: 3.910800 ms  DeleteObjects: 0.037900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
